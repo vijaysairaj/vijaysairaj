@@ -1,5 +1,5 @@
 <h3 align="center">A passionate frontend developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/male-programmer-doing-coding-work-9560195-7793573.mp4"
+<img align="right" alt="Coding" width="400" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/male-programmer-doing-coding-work-9560195-7793573.mp4"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijaysairaj&label=Profile%20views&color=0e75b6&style=flat" alt="vijaysairaj" /> </p>
 
